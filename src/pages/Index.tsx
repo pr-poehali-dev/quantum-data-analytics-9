@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">ТВОРОГ*КАФЕ</div>
+        <div className="logo">ТВОРОЖНЯ</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">О нас</a>
@@ -196,7 +196,7 @@ export default function Index() {
 
       <footer>
         <div>
-          <div className="footer-logo">ТВОРОГ*КАФЕ</div>
+          <div className="footer-logo">ТВОРОЖНЯ</div>
           <p style={{ color: "#666", lineHeight: 1.6 }}>
             Маленькое кафе с большим вкусом. Домашняя выпечка и десерты из натурального творога каждый день.
           </p>
